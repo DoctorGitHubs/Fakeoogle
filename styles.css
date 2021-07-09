@@ -26,6 +26,10 @@ div.google {
   margin: 200px;
 }
 
+.fakegsearch {
+  cursor: pointer;
+}
+
 footer {
   background-color: #c0c0c0;
   position: fixed;
