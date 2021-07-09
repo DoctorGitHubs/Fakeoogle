@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+}
+
+form {
+  margin: 0 auto;
+  width: 500px;
+}
+
+input[type=search] {
+  width: 500px;
+  height: 29px;
+  border: 1px solid #ccc;
+}
+
+input[type=search]:hover{
+  border: 1px solid black;
+}
+
+span {
+  font-size: 75px;
+  font-weight: bold;
+}
+
+div.google {
+  margin: 200px;
+}
+
+footer {
+  background-color: #c0c0c0;
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
